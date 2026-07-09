@@ -2,7 +2,7 @@
 
 Fabric Link: https://app.fabric.microsoft.com/groups/me/reports/5b165a7d-0301-44cb-9247-83aa32546ea3?ctid=77255288-5298-4ea5-81aa-a13e604c30ac&pbi_source=linkShare
 
-> **"Where Data Meets Discovery"**[cite: 1]
+> **"Where Data Meets Discovery"**
 
 ## 🚀 Project Overview
 This project was developed as a graduation project for the **Digital Egypt Pioneers Initiative (DEPI) - Data Analysis Track**[cite: 1]. It utilizes real, continuously-updated observational data from NASA's Exoplanet Archive to identify which of the thousands of confirmed exoplanets fall inside their star's habitable zone (the "Goldilocks Zone") and to rank their physical similarity to Earth[cite: 1].
